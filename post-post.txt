@@ -1,0 +1,1 @@
+Post post regex setup, but with the autobuild on commit checkbox checked.
