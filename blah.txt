@@ -1,0 +1,1 @@
+Post regex, post auto-build, post case insensitive
