@@ -1,1 +1,2 @@
-Post regex, post auto-build, post case insensitive
+# Post regex, post auto-build, post case insensitive
+Case-insensitive is bad! Modified regex instead.
